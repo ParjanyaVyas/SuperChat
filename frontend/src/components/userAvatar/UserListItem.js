@@ -21,7 +21,7 @@ const UserListItem = ({ handleFunction }) => {
       px={3}
       py={2}
       mb={2}
-      borderRadius="lg"
+      borderRadius="2xl"
     >
       <Avatar
         mr={2}
